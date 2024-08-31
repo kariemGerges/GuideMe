@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/GuideMe/static/css/main.749a064c.css",
+    "main.js": "/GuideMe/static/js/main.dd3d9bc6.js",
+    "static/js/453.7e913744.chunk.js": "/GuideMe/static/js/453.7e913744.chunk.js",
+    "static/media/1 (18).jpeg": "/GuideMe/static/media/1 (18).2bf69afa63f90601a63f.jpeg",
+    "static/media/1 (19).jpeg": "/GuideMe/static/media/1 (19).4d951be0bc7b3a802125.jpeg",
+    "static/media/1 (20).jpeg": "/GuideMe/static/media/1 (20).a96f96d28d313eb89b63.jpeg",
+    "static/media/1 (9).jpeg": "/GuideMe/static/media/1 (9).04f2388dd040eab6dff7.jpeg",
+    "static/media/1 (16).jpeg": "/GuideMe/static/media/1 (16).372761473e3e899dd466.jpeg",
+    "static/media/1 (2).jpeg": "/GuideMe/static/media/1 (2).009ee44baeafc4eb750f.jpeg",
+    "static/media/1 (5).jpeg": "/GuideMe/static/media/1 (5).d42e0ba7757e3d020fe4.jpeg",
+    "static/media/1 (4).jpeg": "/GuideMe/static/media/1 (4).b2ce3fb125837aba9a3c.jpeg",
+    "static/media/2.jpeg": "/GuideMe/static/media/2.a1332a5209c5779a18ed.jpeg",
+    "static/media/1 (10).jpeg": "/GuideMe/static/media/1 (10).6425673413663ae4e49f.jpeg",
+    "static/media/1 (21).jpeg": "/GuideMe/static/media/1 (21).dc9d56b4150cc0073e72.jpeg",
+    "static/media/1 (3).jpeg": "/GuideMe/static/media/1 (3).45abb38568c7b97361e9.jpeg",
+    "static/media/1 (15).jpeg": "/GuideMe/static/media/1 (15).a7f37d9dc9c28f1dfe56.jpeg",
+    "static/media/1 (14).jpeg": "/GuideMe/static/media/1 (14).5685858c94f35d8964f4.jpeg",
+    "static/media/1 (8).jpeg": "/GuideMe/static/media/1 (8).9d1f4c0e67ad1644dd99.jpeg",
+    "static/media/1 (12).jpeg": "/GuideMe/static/media/1 (12).a4980cc86b74df3dac24.jpeg",
+    "static/media/1 (11).jpeg": "/GuideMe/static/media/1 (11).6951c1c0d76d75cdc05d.jpeg",
+    "static/media/1 (17).jpeg": "/GuideMe/static/media/1 (17).6838f2555d68ea884405.jpeg",
+    "static/media/1 (6).jpeg": "/GuideMe/static/media/1 (6).8a0f96abe1925bc933b2.jpeg",
+    "static/media/AdobeStock_609702237 1.png": "/GuideMe/static/media/AdobeStock_609702237 1.de51979e5d5266385c58.png",
+    "static/media/1 (7).jpeg": "/GuideMe/static/media/1 (7).6d05d8aad7eef89dfdc1.jpeg",
+    "static/media/1 (13).jpeg": "/GuideMe/static/media/1 (13).d416b418964e7170ae33.jpeg",
+    "static/media/JuliusSansOne-Regular.ttf": "/GuideMe/static/media/JuliusSansOne-Regular.2de04709e76a8c3a838d.ttf",
+    "static/media/guideme shape.png": "/GuideMe/static/media/guideme shape.39f52134f6e8d034a8c1.png",
+    "index.html": "/GuideMe/index.html",
+    "main.749a064c.css.map": "/GuideMe/static/css/main.749a064c.css.map",
+    "main.dd3d9bc6.js.map": "/GuideMe/static/js/main.dd3d9bc6.js.map",
+    "453.7e913744.chunk.js.map": "/GuideMe/static/js/453.7e913744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749a064c.css",
+    "static/js/main.dd3d9bc6.js"
+  ]
+}
