@@ -1,0 +1,124 @@
+/* responsive.css */
+
+#map {
+  height: 100%;
+}
+
+#map {
+  pointer-events: none;
+}
+
+:root{
+  --bg-color: #ede3e0;
+  --text-color: #000;
+}
+
+[data-theme="dark"] {
+  --bg-color: #000;
+  --text-color: #fff;
+}
+
+body{
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 1200px) {
+    .HomePagePicture {
+      height: 70vh;
+    }
+  
+    img{
+      height: 30vh;
+    }
+  
+    .learnStartedbtn, .unlockSeamleas, .navLinks {
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .HomePagePicture {
+      height: 60vh;
+    }
+  
+    img{
+      height: 40vh;
+    }
+  
+    .learnStartedbtn, .unlockSeamleas, .navLinks {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .HomePagePicture {
+      height: 50vh;
+    }
+  
+    img{
+      height: 50vh;
+    }
+  
+    .learnStartedbtn, .unlockSeamleas, .navLinks {
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .HomePagePicture {
+      height: 40vh;
+    }
+  
+    img{
+      height: 60vh;
+    }
+  
+    .learnStartedbtn, .unlockSeamleas, .navLinks {
+      font-size: 0.7rem;
+    }
+
+    .textfeatures{
+      font-size: 12px;
+      line-height: 10px;
+    }
+  }
+  
+  /* .footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  } */
+  
+  @media (max-width: 992px) {
+    .footer-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+  /* Additional global responsive styles */
+  html, body, #root, .App {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .flex-grow {
+    flex-grow: 1;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
+  .bg-cover {
+    background-size: cover;
+  }
+  
+  .bg-center {
+    background-position: center;
+  }
+  

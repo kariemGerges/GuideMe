@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Julius Sans One';
+    src: local('Julius Sans One'), url('src/assets/fonts/JuliusSansOne-Regular.ttf') format('truetype');
+  }
+
+.bg-rgba-orange {
+    background-color: rgba(242, 127, 61, 0.19);
+}
+
+.bg-rgba-orangeHamburger {
+  background-color: #EDBAAA;
+}
+
+body{
+    font-family: 'Julius Sans One';
+}
+
+.navLink{
+    color: #000000;
+    text-align: center;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0%; /* 0px */
+    letter-spacing: 3.15px;
+    text-decoration: none;
+}
+
+.navbtn{
+    border-radius: 15px;
+    background: #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    /* display: flex; */
+    color: #FFF;
+    text-align: center;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0%; /* 0px */
+    letter-spacing: 4.56px;
+}
+
+
+/* HamburgerMenu.css */
+.hamburger-icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  
+  .hamburger-line {
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .rotate-45 {
+    transform: rotate(45deg);
+  }
+  
+  .rotate-45 {
+    transform: rotate(45deg);
+  }
+  
+  .opacity-0 {
+    opacity: 0;
+  }
+  
+  .translate-y-1 {
+    transform: translateY(6px);
+  }
+  
+  .-rotate-45 {
+    transform: rotate(-45deg);
+  }
+  
+  .-translate-y-1 {
+    transform: translateY(-6px);
+  }
+  
+
+  /* Header.css */
+.navLink {
+    transition: color 0.3s ease;
+  }
+  
+  .navLink:hover {
+    color: white;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+  
+    .md\\:hidden {
+      display: none;
+    }
+  
+    .md\\:flex {
+      display: flex;
+    }
+  }
+  
+
+
