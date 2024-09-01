@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GuideMe/static/css/main.fa56e5cd.css",
-    "main.js": "/GuideMe/static/js/main.5b242589.js",
+    "main.css": "/GuideMe/static/css/main.ac5e07b6.css",
+    "main.js": "/GuideMe/static/js/main.21a45290.js",
     "static/js/453.7e913744.chunk.js": "/GuideMe/static/js/453.7e913744.chunk.js",
     "static/media/1 (18).jpeg": "/GuideMe/static/media/1 (18).2bf69afa63f90601a63f.jpeg",
     "static/media/1 (19).jpeg": "/GuideMe/static/media/1 (19).4d951be0bc7b3a802125.jpeg",
@@ -28,12 +28,12 @@
     "static/media/JuliusSansOne-Regular.ttf": "/GuideMe/static/media/JuliusSansOne-Regular.2de04709e76a8c3a838d.ttf",
     "static/media/guideme shape.png": "/GuideMe/static/media/guideme shape.39f52134f6e8d034a8c1.png",
     "index.html": "/GuideMe/index.html",
-    "main.fa56e5cd.css.map": "/GuideMe/static/css/main.fa56e5cd.css.map",
-    "main.5b242589.js.map": "/GuideMe/static/js/main.5b242589.js.map",
+    "main.ac5e07b6.css.map": "/GuideMe/static/css/main.ac5e07b6.css.map",
+    "main.21a45290.js.map": "/GuideMe/static/js/main.21a45290.js.map",
     "453.7e913744.chunk.js.map": "/GuideMe/static/js/453.7e913744.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa56e5cd.css",
-    "static/js/main.5b242589.js"
+    "static/css/main.ac5e07b6.css",
+    "static/js/main.21a45290.js"
   ]
 }
